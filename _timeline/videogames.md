@@ -1,7 +1,7 @@
 ---
 layout: timeline 
 title: Βιντεοπαιχνίδια 
-image_url: /images/nintendo64.png
+image_url: /images/nintendo64.png /images.sony-playstation.jpg
 caption: Τα βίντεοπαιχνίδια ακολουθούν μια παράλληλη με τους υπολογιστές γραφείου διαδρομή, με διαφορετικά είδη γραφικών και συσκευών εισόδου, καθώς και άλλες μεταφορές για την αλληλεπίδραση με τον χρήστη. 
 events:
   - spacewar-players
@@ -10,6 +10,7 @@ events:
   - pong
   - adventure-videogame
   - nintendo64
+  - sony-playstation
   - atari-adventure
   - printed-code
   - pet-lander
