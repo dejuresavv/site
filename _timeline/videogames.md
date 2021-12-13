@@ -9,7 +9,7 @@ events:
   - magnavox-odyssey
   - pong
   - adventure-videogame
-  - nintendo64
+  - playstation-vr
   - sony-playstation
   - atari-adventure
   - printed-code
