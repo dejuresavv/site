@@ -1,7 +1,7 @@
 ---
 layout: slides
 title: Βιντεοπαιχνίδια 
-image_url: /images/nintendo64.png /images/sony-playstation.jpg
+image_url: /images/playstation-vr.jpg /images/sony-playstation.jpg
 caption: Τα βίντεοπαιχνίδια ακολουθούν μια παράλληλη με τους υπολογιστές γραφείου διαδρομή, με διαφορετικά είδη γραφικών και συσκευών εισόδου, καθώς και άλλες μεταφορές για την αλληλεπίδραση με τον χρήστη. 
 slides:
   - spacewar-players
