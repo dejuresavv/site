@@ -14,6 +14,6 @@ slides:
   - math-blaster
   - minecraft-end-user
   - kinect
-  - nintendo64
+  - playstation-vr
   - sony-playstation
 ---
