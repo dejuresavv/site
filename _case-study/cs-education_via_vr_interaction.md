@@ -24,3 +24,23 @@
 Επιπλέον, ένα ακόμα σενάριο, το οποίο κατά τη γνώμη μου θα είναι εξαιρετικά χρήσιμος ένας εξοπλισμός VR και τα επίπεδα διάδρασης που προσφέρει, είναι στην επιλογή επαγγέλματος. Όταν γίνεται αναφορά στην επιλογή επαγγέλματος, στην πληθώρα των περιπτώσεων αναφερόμαστε σε ανθρώπους εφηβικής ηλικίας κυρίως, αλλά και μικρότερης. Η εφηβική και μέχρι την ενηλικίωση ηλικία αποτελεί μία πολύ κομβική περίοδο στην μετέπειτα ζωή ενός ανθρώπου και καλώς ή κακώς, καλείται στα τέλη της περιόδου που αναφερόμαστε, να επιλέξει μία επαγγελματική σταδιοδρομία για τη ζωή του. Εδώ, θα μπορούσε να πραγματοποιηθεί η εισαγωγή ενός εικονικού κόσμου με τη χρήση VR, ο οποίος θα είχε μία προσομοίωση επαγγελμάτων για να μπορεί ένα άτομο νεαρής ηλικίας να λάβει ορισμένα ερεθίσματα για την καθημερινότητα επαγγελμάτων. Μία τέτοια πολυτέλεια θα μπορούσε να συμβάλει θετικά στις επιλογές επαγγελματικής σταδιοδρομίας, καθώς ο χαρακτήρας και οι αρέσκειες σε συνδυασμό με μία οπτικοακουστική διάδραση, θα μπορούσε να καταστήσει ευκολότερη την επιλογή της επαγγελματικής πορείας ενός ανθρώπου.
 
 Κλείνοντας, αποτελεί κοινό τόπο η διαπίστωση πως η εισαγωγή VR εξοπλισμού σε πληθώρα σχολείων και πανεπιστημίων, είτε αυτή υπάρχει σε μορφή hardware ή software παραμένει ακόμα οικονομικά δυσμενής. Η VR τεχνολογία, όντας ένας γενικότερα ανερχόμενος κλάδος, οι οικονομικές απαιτήσεις που καλείται ένα σχολείο ή ένα πανεπιστήμιο να καλύψει, ούτως ώστε να εξοπλίσει τις αίθουσες του με τον αντίστοιχο εξοπλισμό, αποτελούν εμπόδιο προς τη VR κατεύθυνση. Μελλοντικά, εάν το VR καταφέρει να εισάγεται με αυξανόμενους ρυθμούς στις ζωές των ανθρώπων, ενδέχεται να δούμε την εμφάνιση του σε έναν ευρύ αριθμό σχολικών και πανεπιστημιακών αιθουσών και την εκπαίδευση να λαμβάνει μία καινοτόμα μορφή, με πολλές προοπτικές για την εκπαίδευση των ανθρώπων.
+
+
+
+
+# ΠΗΓΕΣ
+| Άρθρο |
+| -- |
+|[Applications of Virtual Reality in Education](https://www.analyticssteps.com/blogs/5-applications-virtual-reality-education)| 
+|[Virtual Reality in Education: Benefits, Cases, Obstacles ](https://light-it.net/blog/virtual-reality-in-education/)|
+|[Solving these 5 issues will make education AR/VR go mainstream](https://venturebeat.com/2019/10/05/solving-these-5-issues-will-make-education-ar-vr-go-mainstream/)|
+|[Schools Face Barriers to VR Adoption in the Classroom ](https://edtechmagazine.com/k12/article/2019/12/schools-face-barriers-vr-adoption-classroom)|
+|[VR in education – Advantages and disadvantages ](https://roboticsbiz.com/vr-in-education-advantages-and-disadvantages/)|
+|[5 Applications of Virtual Reality in Education ](https://www.analyticssteps.com/blogs/5-applications-virtual-reality-education) |
+|[Virtual Reality in Education: How VR is Used in Immersive Learning ](https://www.futurelearn.com/info/blog/virtual-reality-education-immersive-learning)|
+|[Virtual Reality in Education: How VR is Used in Immersive Learning ](https://www.futurelearn.com/info/blog/virtual-reality-education-immersive-learning)|
+|[How VR In Education Will Change How We Learn And Teach](https://xd.adobe.com/ideas/principles/emerging-technology/virtual-reality-will-change-learn-teach)|
+|[How does Virtual Reality Work? ](https://www.xrtoday.com/virtual-reality/how-does-virtual-reality-work/)|
+
+
+
